@@ -1,0 +1,3 @@
+/home/junyong/CLionProjects/StarCraft/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/junyong/CLionProjects/StarCraft/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/junyong/CLionProjects/StarCraft/cmake-build-debug/CMakeFiles/Reference.dir
