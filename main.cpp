@@ -101,8 +101,7 @@ void Zergling::Move(float dt) {
     currentLocation.x += unit_del_x * moveSpeed * dt;
     currentLocation.y += unit_del_y * moveSpeed * dt;
 }
-
-// Firebat class
+// Ghost class
 class Marine : public Unit {
 private:
     int moveSpeed;
