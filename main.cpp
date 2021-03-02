@@ -102,6 +102,7 @@ void Zergling::Move(float dt) {
     currentLocation.y += unit_del_y * moveSpeed * dt;
 }
 
+// Firebat class
 class Marine : public Unit {
 private:
     int moveSpeed;
@@ -143,6 +144,7 @@ void Marine::Move(float dt) {
     currentLocation.y += unit_del_y * moveSpeed * dt;
 }
 
+// Stalker class
 class Stalker : public Unit {
 private:
     int moveSpeed;
